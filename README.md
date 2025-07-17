@@ -4,7 +4,7 @@
 ![image alt](https://github.com/Snehith18226/Medicine_Reminder/blob/fbd1ed2c1baa29053f24a9e51e324d5d9596773d/screenshots/Picture3.png)
 ![image alt](https://github.com/Snehith18226/Medicine_Reminder/blob/4c8d33aee002738cb76022241ac7b168b22bcfd6/screenshots/Picture4.png)
 ![image alt](https://github.com/Snehith18226/Medicine_Reminder/blob/141e19d8c5493dc0c921f83240edb599604c5a00/screenshots/Picture5.png)
-![image alt]()
+![image alt](https://github.com/Snehith18226/Medicine_Reminder/blob/50f8ac655ccdba50edf7a6ecbd37820dd52d6ffd/screenshots/Picture6.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
