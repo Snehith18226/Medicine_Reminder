@@ -1,4 +1,4 @@
-<h2>📱 App Screenshots</h2>
+<h2>App Screenshots</h2>
 
 <!-- Row 1 -->
 <p align="center">
